@@ -11,5 +11,7 @@ return a*b;
 }
 
 static div(int a, int b) {
+
 return a/b; //ÁÖ¼®
+
 }
